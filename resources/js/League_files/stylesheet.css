@@ -1,0 +1,7 @@
+.league-table thead tr:first-child{
+    background:red;
+}
+
+h4.table-title{
+    text-align: center  ;
+}
